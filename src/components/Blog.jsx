@@ -17,7 +17,7 @@ const Blog=()=>{
         <div className="flex flex-wrap justify-center gap-2 pt-5 w-full">
             {
             myData.map((item,index)=>{
-                return <Card key={index} image={item.image} title={item.title} url={item.url}/>
+                return <Card key={index} image={item.image} title={item.title} read={item.read} url={item.url}/>
             })
             }
         {/* <Card image={"/Blog1.png"} title={"GUI in Python Using Tkinter"} url={"https://dev.to/anjalikumawat2002/gui-in-python-using-tkinter-gfa"}/>
