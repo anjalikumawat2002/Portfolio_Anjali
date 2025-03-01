@@ -1,9 +1,62 @@
 [
-    {"image":"/Blog1.png","title":"GUI in Python Using Tkinter","read":"Python libraries to create Graphical Interfaces :Tkinter, Python QT, wxPython, Kivy. Tkinter is an inbuilt Python module used to create simple GUI apps.......","url":"https://dev.to/anjalikumawat2002/gui-in-python-using-tkinter-gfa"},
-    {"image":"/Blog2.png","title":"EOL : Python Syntax Error","read":"An EOL error indicatesthat Python interpreter expected a particular character or set of characters to have occurred in specific line of code, but that those characters were not found before the end of the line ......","url":"https://dev.to/anjalikumawat2002/eol-python-syntax-error-3fl0"},
-    {"image":"/Blog4.png","title":"Operator Overloading in C++","read":"The mechanism in which we can use operator with custom data type. It is one of the many exciting features of C++ language. It is a compile-time polymorphism......","url":"https://medium.com/codex/operator-overloading-in-c-b9fa0b2fe96b"},
-    {"image":"/Blog3.png","title":"Python : OS Module","read":"The os module is a part of the standard library, or stdlib, within Python 3.Python os module provides methods that help us to perform file processing operations. Let’s explore these basic functions one by one.......","url":"https://dev.to/anjalikumawat2002/python-os-module-ccb"},
-    {"image":"/Blog5.png","title":"How to Overcome from TLE Error in competitive programming?","read":"Many programmers always argue that the problems in Competitive Programming always end up with TLE(Time Limit Exceed)........","url":"https://dev.to/anjalikumawat2002/how-to-overcome-from-tle-error-in-competitive-programming-26p9"},
-    {"image":"/Blog6.png","title":"Image Comparison Slider Using CSS","read":"It is an Image Comparison slider that helps to find differences between two images. When two images are very similar, It became very use full to find the differences between them.....","url":"https://medium.com/@anjali2002kumawat/image-comparison-slider-using-css-edabf447e41c"}
-
+  {
+    "image": "/Blog1.png",
+    "title": "GUI in Python Using Tkinter",
+    "read": "Python libraries to create Graphical Interfaces :Tkinter, Python QT, wxPython, Kivy. Tkinter is an inbuilt Python module used to create simple GUI apps.......",
+    "url": "https://dev.to/anjalikumawat2002/gui-in-python-using-tkinter-gfa"
+  },
+  {
+    "image": "/Blog2.png",
+    "title": "EOL : Python Syntax Error",
+    "read": "An EOL error indicatesthat Python interpreter expected a particular character or set of characters to have occurred in specific line of code, but that those characters were not found before the end of the line ......",
+    "url": "https://dev.to/anjalikumawat2002/eol-python-syntax-error-3fl0"
+  },
+  {
+    "image": "/Blog4.png",
+    "title": "Operator Overloading in C++",
+    "read": "The mechanism in which we can use operator with custom data type. It is one of the many exciting features of C++ language. It is a compile-time polymorphism......",
+    "url": "https://medium.com/codex/operator-overloading-in-c-b9fa0b2fe96b"
+  },
+  {
+    "image": "/Blog3.png",
+    "title": "Python : OS Module",
+    "read": "The os module is a part of the standard library, or stdlib, within Python 3.Python os module provides methods that help us to perform file processing operations. Let’s explore these basic functions one by one.......",
+    "url": "https://dev.to/anjalikumawat2002/python-os-module-ccb"
+  },
+  {
+    "image": "/Blog5.png",
+    "title": "How to Overcome from TLE Error in competitive programming?",
+    "read": "Many programmers always argue that the problems in Competitive Programming always end up with TLE(Time Limit Exceed)........",
+    "url": "https://dev.to/anjalikumawat2002/how-to-overcome-from-tle-error-in-competitive-programming-26p9"
+  },
+  {
+    "image": "/Blog6.png",
+    "title": "Image Comparison Slider Using CSS",
+    "read": "It is an Image Comparison slider that helps to find differences between two images. When two images are very similar, It became very use full to find the differences between them.....",
+    "url": "https://medium.com/@anjali2002kumawat/image-comparison-slider-using-css-edabf447e41c"
+  },
+  {
+    "image": "/Blog7.jpg",
+    "title": "Building a GitHub Insights Dashboard Using GraphQL API: A Step-by-Step Guide",
+    "read": "GitHub is an essential platform for managing and contributing to open-source projects. While GitHub provides an excellent UI for navigating your repositories, an insights dashboard......",
+    "url": "https://www.devrelsquad.com/post/building-a-github-insights-dashboard-using-graphql-api-a-step-by-step-guide"
+  },
+  {
+    "image": "/Blog8.jpg",
+    "title": "Introduction to Google Translation API",
+    "read": "How easy can you add translation features to your apps with the Google Translation API? In this article, we'll guide you through the basics, from understanding the fundamentals to.....",
+    "url": "https://www.devrelsquad.com/post/introduction-to-google-translation-api"
+  },
+  {
+    "image": "/Blog9.jpg",
+    "title": "How to use Twitter API",
+    "read": "Knowing how to utilize the Twitter API is crucial to accessing the platform's massive data repository.The Twitter API provides the necessary tools, such as trend analysis and tweet fetching....",
+    "url": "https://www.devrelsquad.com/post/how-to-use-twitter-api"
+  },
+  {
+    "image": "/Blog10.jpg",
+    "title": "How to Integrate Google Map API into our Application",
+    "read": "Integrating the Google Map API into your application can significantly enhance user experience by enabling robust location-based functionalities......",
+    "url": "https://www.devrelsquad.com/post/how-to-integrate-google-map-api-into-our-application"
+  }
 ]

@@ -1,4 +1,14 @@
 [
+    {
+        "title": "SDE - Binomial Technologies Pvt. Ltd. (Jaipur)",
+        "date": "Oct 2024 - Present",
+        "about": "Developed and enhanced C# MVC frontend views for 'e-Eye®' and trained YOLO-based models for wildlife detection in railway monitoring."
+    },
+    {
+        "title": "SDE Intern + FTE - Curate Data Analytics LLP (Gurugram)",
+        "date": "Feb 2024 - Sept 2024",
+        "about": "Developed APIs for automated data extraction, enhanced chatbot capabilities, and built ML models for sales forecasting with 87% accuracy."
+    },
     {"title":"SDE Intern - Microsoft (Hyderabad)","date":"June 2023 - August 2023","about":"Implemented a traffic routing feature in the ESRP portal at Microsoft, leading to a 90% increase inoperational efficiency, enabling service DRI to seamlessly redirect traffic to a predefined zone during maintenance activities using C#, .NET, and JavaScript."},
     {"title":"Frontend Intern - Foster Health","date":"Sept 2023 - October 2023","about":"Developed user-facing features in React.js, implementing start-stop and pause-play audio recording, while also designing a modern, highly responsive web-based UI and creating reusable components for future use."},
     {"title":"Technical Content Writer Intern - JavaTpoint (Remote)","date":"May 2022 - Dec 2022","about":"Collaborated with C++ and Python teams to author 50+ articles for JavaTpoint and supported the Technical Content Engineering Team in reviewing JavaTpoint topics."}
