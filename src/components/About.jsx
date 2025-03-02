@@ -35,7 +35,7 @@ const About = () => {
           </ul>
           <div className="flex justify-center mt-5 align-middle pb-5">
             <a
-              href="https://drive.google.com/file/d/19kuJF6WEqOCfjJ8cGOnblOs-3__By18Y/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1KPAAKaUAL1gp6ogwivjngdfJ4dqTIrH-/view?usp=sharing"
               target="_blank"
               className="mx-3 inline-flex text-white bg-secondary items-center border-0 py-3 px-6 focus:outline-none rounded text-lg"
             >
